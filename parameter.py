@@ -4,7 +4,7 @@ letters = [letter for letter in CHAR_VECTOR]
 
 num_classes = len(letters) + 1
 
-img_w, img_h = 128, 64
+img_w, img_h = 232, 32
 
 # Network parameters
 batch_size = 128
